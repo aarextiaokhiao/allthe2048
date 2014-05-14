@@ -525,3 +525,23 @@
 - url: http://mblan.github.io/joc2048/
   name: JOC Wines Edition
   author: m blan
+
+- url: http://aarextiaokhiao.github.io/Aarex2048/size5.html
+  name: 65536 Endless
+  author: Aarex Tiaokhiao
+
+- url: http://aarextiaokhiao.github.io/Aarex2048/4194304.html
+  name: 4194304
+  author: Aarex Tiaokhiao
+
+- url: http://aarextiaokhiao.github.io/Aarex2048/size6.html
+  name: 4194304 Endless
+  author: Aarex Tiaokhiao
+
+- url: http://aarextiaokhiao.github.io/Aarex2048/fibonacci.html
+  name: 2584
+  author: Aarex Tiaokhiao
+
+- url: http://aarextiaokhiao.github.io/Aarex2048/classic.html
+  name: 1024 (Browser)
+  author: Aarex Tiaokhiao
